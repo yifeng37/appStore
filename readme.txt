@@ -7,3 +7,4 @@ new change
 add in github
 add in github for git pull
 add in dev
+add for mutil branch
